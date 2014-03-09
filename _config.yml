@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 在路上
-tagline: Site Tagline
+tagline: on the road
 author :
   name : halfming
   email : halfming@gmail.com
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : halfming
     livefyre :
       site_id : 123
     intensedebate :
